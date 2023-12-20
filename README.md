@@ -1,4 +1,4 @@
-# stackedit-appdata-template
+# StackEdit中文版
 StackEdit中文版默认空间模板
 
 官方地址：https://stackedit.cn
